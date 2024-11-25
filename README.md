@@ -1,2 +1,2 @@
 # test
-I am learning about github
+I am learning about GitHub today.
